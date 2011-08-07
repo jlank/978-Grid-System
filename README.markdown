@@ -18,6 +18,17 @@ Learn more about 978 for web design: <http://978.gs/>
 CSS Usage
 ---------
 
+Note from the author: We do NOT encourage the use of CSS frameworks. HTML, when written correctly, 
+should semantically describe your CONTENT [as much that is realistically feasible]. Mucking up your 
+markup with classes for layout/grid is not considered best practice. 
+
+With that being said, however, CSS frameworks can make rapid prototyping a breeze. They can let 
+someone of any skill-set quickly mock up a basic look and feel of a website. In some ways, it may 
+even be faster than doing it in Photoshop.
+
+Therefore, we are providing this framework for rapid prototype use (and for those not comfortable 
+writing their own CSS). We still strongly encourage you to write your own CSS on your own projects.
+
 ### Include the CSS framework in your page ###
 
 	<link rel="stylesheet" href="978.css">
