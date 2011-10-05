@@ -1,0 +1,105 @@
+/*
+
+748 Grid System CSS Framework
+http://978.gs
+
+Copyright (c) 2011 Brothers Roloff
+http://www.brothersroloff.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+*/
+div.layout-748 {
+  width: 748px;
+  margin: 0px auto;
+}
+div.row {
+  height: 1%;
+}
+div.row-end {
+  clear: both;
+  font: 1em sans-serif;
+  height: 1px;
+  overflow: hidden;
+}
+div.col1,
+div.col2,
+div.col3,
+div.col4,
+div.col5,
+div.col6,
+div.col7,
+div.col8,
+div.col9,
+div.col10,
+div.col11,
+div.col12 {
+  float: left;
+  margin-left: 2.6737967914438503%;
+}
+div.col1:first-child,
+div.col2:first-child,
+div.col3:first-child,
+div.col4:first-child,
+div.col5:first-child,
+div.col6:first-child,
+div.col7:first-child,
+div.col8:first-child,
+div.col9:first-child,
+div.col10:first-child,
+div.col11:first-child,
+div.col12:first-child {
+  margin-left: 0%;
+}
+div.col1 {
+  width: 5.88235294117647%;
+}
+div.col2 {
+  width: 14.43850267379679%;
+}
+div.col3 {
+  width: 22.994652406417114%;
+}
+div.col4 {
+  width: 31.550802139037433%;
+}
+div.col5 {
+  width: 40.106951871657756%;
+}
+div.col6 {
+  width: 48.663101604278076%;
+}
+div.col7 {
+  width: 57.21925133689839%;
+}
+div.col8 {
+  width: 65.77540106951871%;
+}
+div.col9 {
+  width: 74.33155080213903%;
+}
+div.col10 {
+  width: 82.88770053475936%;
+}
+div.col11 {
+  width: 91.44385026737967%;
+}
+div.col12 {
+  width: 748px;
+}
